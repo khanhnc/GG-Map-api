@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "apiApp"
+  "defaultProject": "apiApp",
+  "cli": {
+    "analytics": "ea003b24-b111-4920-a7d2-c3e37fd3d2c0"
+  }
 }
